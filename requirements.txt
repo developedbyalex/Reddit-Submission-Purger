@@ -1,0 +1,23 @@
+# To install all the dependencies on this file run pip install -r requirements.txt
+certifi==2021.10.8
+    # via requests
+charset-normalizer==2.0.9
+    # via requests
+idna==3.3
+    # via requests
+praw==7.5.0
+    # via -r requirements.txt
+prawcore==2.3.0
+    # via praw
+pyyaml==6.0
+    # via -r requirements.txt
+requests==2.26.0
+    # via
+    #   prawcore
+    #   update-checker
+update-checker==0.18.0
+    # via praw
+urllib3==1.26.7
+    # via requests
+websocket-client==1.2.3
+    # via praw

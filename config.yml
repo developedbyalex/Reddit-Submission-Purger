@@ -1,0 +1,8 @@
+app-settings:
+  client-id: ''
+  client-secret: ''
+  user-agent: ''
+credential-settings:
+  username: ''
+  password: ''
+target-user: ''
