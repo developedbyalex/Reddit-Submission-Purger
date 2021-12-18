@@ -1,5 +1,4 @@
 # Reddit-Submission-Purger
-
 ##How to get started
 
 1. Download the files as a zip
